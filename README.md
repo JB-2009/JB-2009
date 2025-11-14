@@ -1,7 +1,5 @@
 # 👋 Hey, ik ben Jenson!
 
-<img src="https://github.com/JB-2009.png" width="120" height="120" style="border-radius:50%;"/>
-
 Welkom op mijn GitHub-profiel!  
 Ik ben student software development en ik leer nu **C# (game development)** en **PHP (backend development)**.
 
@@ -41,6 +39,7 @@ Ik probeer regelmatig updates te plaatsen zodat mijn GitHub meegroeit met mijn k
 
 - ✉️ Email: **JB-2009-_-@hotmail.com**
 - 🧠 GitHub: github.com/JB-2009
+
 
 
 
